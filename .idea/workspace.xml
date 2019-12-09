@@ -212,7 +212,7 @@
       <workItem from="1575819406668" duration="38000" />
       <workItem from="1575819540312" duration="52000" />
       <workItem from="1575819616880" duration="725000" />
-      <workItem from="1575820348824" duration="4146000" />
+      <workItem from="1575820348824" duration="4974000" />
     </task>
     <task id="LOCAL-00001" summary="room type plot">
       <created>1575897645927</created>
@@ -242,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575907641643</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change colormap">
+      <created>1575909941062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575909941063</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,17 +258,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="room type plot" />
     <MESSAGE value="rearrange" />
-    <option name="LAST_COMMIT_MESSAGE" value="rearrange" />
+    <MESSAGE value="change colormap" />
+    <option name="LAST_COMMIT_MESSAGE" value="change colormap" />
   </component>
   <component name="WindowStateProjectService">
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575819550812">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1575819550812" />
-    <state x="281" y="58" key="CommitChangelistDialog2" timestamp="1575907641085">
+    <state x="281" y="58" key="CommitChangelistDialog2" timestamp="1575909940296">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="281" y="58" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1575907641085" />
+    <state x="281" y="58" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1575909940296" />
     <state x="580" y="366" key="Github.ShareDialog" timestamp="1575820826115">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
