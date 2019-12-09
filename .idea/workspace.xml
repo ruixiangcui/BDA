@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37acbf34-1e1c-4ea4-9d0f-3327344b9e91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BDA_project/BDA3_try.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BDA_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BDA_project/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BDA_project/BDA3_og.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../BDA_project/BDA3_og.ipynb" afterDir="false" />
     </list>
@@ -213,7 +212,7 @@
       <workItem from="1575819406668" duration="38000" />
       <workItem from="1575819540312" duration="52000" />
       <workItem from="1575819616880" duration="725000" />
-      <workItem from="1575820348824" duration="3613000" />
+      <workItem from="1575820348824" duration="4146000" />
     </task>
     <task id="LOCAL-00001" summary="room type plot">
       <created>1575897645927</created>
@@ -236,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575900807388</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="rearrange">
+      <created>1575907641643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575907641643</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,10 +258,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1575819550812" />
-    <state x="281" y="58" key="CommitChangelistDialog2" timestamp="1575907610504">
+    <state x="281" y="58" key="CommitChangelistDialog2" timestamp="1575907641085">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="281" y="58" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1575907610504" />
+    <state x="281" y="58" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1575907641085" />
     <state x="580" y="366" key="Github.ShareDialog" timestamp="1575820826115">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
