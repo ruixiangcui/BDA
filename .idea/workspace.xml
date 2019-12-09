@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37acbf34-1e1c-4ea4-9d0f-3327344b9e91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BDA_project/neighbourhood.csv" afterDir="false" />
+    <list default="true" id="37acbf34-1e1c-4ea4-9d0f-3327344b9e91" name="Default Changelist" comment="room type plot">
       <change beforePath="$PROJECT_DIR$/../BDA_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BDA_project/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BDA_project/BDA3_og.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../BDA_project/BDA3_og.ipynb" afterDir="false" />
     </list>
@@ -213,18 +212,34 @@
       <workItem from="1575819406668" duration="38000" />
       <workItem from="1575819540312" duration="52000" />
       <workItem from="1575819616880" duration="725000" />
-      <workItem from="1575820348824" duration="2483000" />
+      <workItem from="1575820348824" duration="3012000" />
     </task>
+    <task id="LOCAL-00001" summary="room type plot">
+      <created>1575897645927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575897645928</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="room type plot" />
+    <option name="LAST_COMMIT_MESSAGE" value="room type plot" />
   </component>
   <component name="WindowStateProjectService">
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575819550812">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1575819550812" />
+    <state x="281" y="58" key="CommitChangelistDialog2" timestamp="1575899387917">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="281" y="58" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1575899387917" />
     <state x="580" y="366" key="Github.ShareDialog" timestamp="1575820826115">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
