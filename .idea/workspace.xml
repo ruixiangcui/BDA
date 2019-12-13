@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37acbf34-1e1c-4ea4-9d0f-3327344b9e91" name="Default Changelist" comment="created1">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/BDA3_og-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BDA3_og.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BDA3_og.ipynb" afterDir="false" />
     </list>
@@ -28,9 +25,10 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -214,7 +212,11 @@
       <workItem from="1575819540312" duration="52000" />
       <workItem from="1575819616880" duration="725000" />
       <workItem from="1575820348824" duration="4974000" />
-      <workItem from="1576260961204" duration="1369000" />
+      <workItem from="1576260961204" duration="1626000" />
+      <workItem from="1576262636781" duration="34000" />
+      <workItem from="1576262673534" duration="6000" />
+      <workItem from="1576262692107" duration="24000" />
+      <workItem from="1576262735805" duration="519000" />
     </task>
     <task id="LOCAL-00001" summary="room type plot">
       <created>1575897645927</created>
@@ -262,7 +264,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -277,14 +281,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="created1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="300" y="118" key="#Inspections" timestamp="1576262623829">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="300" y="118" key="#Inspections/0.23.1440.877@0.23.1440.877" timestamp="1576262623829" />
+    <state x="204" y="129" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576262904894">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="204" y="129" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1576262904894" />
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575819550812">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1575819550812" />
-    <state x="281" y="58" key="CommitChangelistDialog2" timestamp="1576261995635">
+    <state x="281" y="58" key="CommitChangelistDialog2" timestamp="1576262965044">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="281" y="58" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1576261995635" />
+    <state x="281" y="58" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1576262965044" />
     <state x="580" y="366" key="Github.ShareDialog" timestamp="1575820826115">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -309,10 +321,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1575820373594" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1576261708517">
+    <state x="221" y="100" key="SettingsEditor" timestamp="1576262922713">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1576261708517" />
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1576262922713" />
     <state x="483" y="376" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576261964690">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
