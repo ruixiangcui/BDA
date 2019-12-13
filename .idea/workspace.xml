@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37acbf34-1e1c-4ea4-9d0f-3327344b9e91" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../BDA_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BDA_project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BDA_project/BDA3_og.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../BDA_project/BDA3_og.ipynb" afterDir="false" />
+    <list default="true" id="37acbf34-1e1c-4ea4-9d0f-3327344b9e91" name="Default Changelist" comment="created1">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/BDA3_og-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BDA3_og.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BDA3_og.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,13 +14,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../BDA_project" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
-  <component name="JupyterTrust" id="16942519-bb9c-41ad-81ab-7f34d2cd0280">
-    <option name="files">
-      <option value="BDA3_og.ipynb" />
-    </option>
-  </component>
+  <component name="JupyterTrust" id="16942519-bb9c-41ad-81ab-7f34d2cd0280" />
   <component name="ProjectId" id="1UhrBbOFA7sti7GSvP0iEPUka8W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,14 +26,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../BDA_project" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/../BDA" />
     </key>
@@ -213,6 +214,7 @@
       <workItem from="1575819540312" duration="52000" />
       <workItem from="1575819616880" duration="725000" />
       <workItem from="1575820348824" duration="4974000" />
+      <workItem from="1576260961204" duration="980000" />
     </task>
     <task id="LOCAL-00001" summary="room type plot">
       <created>1575897645927</created>
@@ -255,21 +257,34 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="room type plot" />
     <MESSAGE value="rearrange" />
     <MESSAGE value="change colormap" />
-    <option name="LAST_COMMIT_MESSAGE" value="change colormap" />
+    <MESSAGE value="created" />
+    <MESSAGE value="created1" />
+    <option name="LAST_COMMIT_MESSAGE" value="created1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575819550812">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1575819550812" />
-    <state x="281" y="58" key="CommitChangelistDialog2" timestamp="1575909940296">
+    <state x="281" y="58" key="CommitChangelistDialog2" timestamp="1576261769443">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="281" y="58" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1575909940296" />
+    <state x="281" y="58" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1576261769443" />
     <state x="580" y="366" key="Github.ShareDialog" timestamp="1575820826115">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -294,10 +309,14 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1575820373594" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1575820326999">
+    <state x="221" y="100" key="SettingsEditor" timestamp="1576261708517">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1575820326999" />
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1576261708517" />
+    <state x="483" y="376" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576261964690">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="483" y="376" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1576261964690" />
     <state x="375" y="230" width="689" height="462" key="find.popup" timestamp="1575821096761">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
