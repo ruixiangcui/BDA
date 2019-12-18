@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="37acbf34-1e1c-4ea4-9d0f-3327344b9e91" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BDA3_og.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BDA3_og.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +28,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -217,6 +218,8 @@
       <workItem from="1576262692107" duration="24000" />
       <workItem from="1576262735805" duration="924000" />
       <workItem from="1576592585196" duration="1065000" />
+      <workItem from="1576675416091" duration="69000" />
+      <workItem from="1576678035711" duration="238000" />
     </task>
     <task id="LOCAL-00001" summary="room type plot">
       <created>1575897645927</created>
@@ -281,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576594374529</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="created1">
+      <created>1576675457608</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1576675457608</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,10 +331,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1575819550812" />
-    <state x="281" y="58" key="CommitChangelistDialog2" timestamp="1576675442314">
+    <state x="281" y="58" key="CommitChangelistDialog2" timestamp="1576675447543">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="281" y="58" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1576675442314" />
+    <state x="281" y="58" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1576675447543" />
     <state x="580" y="366" key="Github.ShareDialog" timestamp="1575820826115">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -349,10 +359,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1575820373594" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1576594264402">
+    <state x="221" y="100" key="SettingsEditor" timestamp="1576678072306">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1576594264402" />
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1576678072306" />
     <state x="483" y="376" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576261964690">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
